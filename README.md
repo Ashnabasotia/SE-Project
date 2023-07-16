@@ -11,9 +11,9 @@
 * Wishlist
 * Shipping Details
 * Payment though Paypal API
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
+![Home Page](https://github.com/Ashnabasotia/SE-Project/blob/main/uploads/Screenshot%20(88).png)
+![Product Details Page](https://github.com/Ashnabasotia/SE-Project/blob/main/uploads/Screenshot%20(89).png)
+![Shopping Cart](https://github.com/Ashnabasotia/SE-Project/blob/main/uploads/Screenshot%20(87).png)
+![WishList](https://github.com/Ashnabasotia/SE-Project/blob/main/uploads/Screenshot%20(90).png)
+![Shipping Details](https://github.com/Ashnabasotia/SE-Project/blob/main/uploads/Screenshot%20(92).png)
+![Paypal](https://github.com/Ashnabasotia/SE-Project/blob/main/uploads/Screenshot%20(93).png)
